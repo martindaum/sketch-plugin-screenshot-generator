@@ -1,14 +1,14 @@
 {
-  "name": "screenshots",
+  "name": "ScreenshotsGenerator",
   "description": "",
   "version": "0.0.9",
   "engines": {
     "sketch": ">=49.0"
   },
   "skpm": {
-    "name": "Screenshots",
+    "name": "ScreenshotsGenerator",
     "manifest": "src/manifest.json",
-    "main": "screenshots.sketchplugin",
+    "main": "screenshotsgenerator.sketchplugin",
     "assets": [
       "assets/**/*"
     ],

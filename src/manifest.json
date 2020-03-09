@@ -4,14 +4,14 @@
   "commands": [
     {
       "name": "Generate",
-      "identifier": "app.waterlytics.screenshots.generate",
+      "identifier": "com.martindaum.screenshotsgenerator.generate",
       "script": "./generate.js"
     }
   ],
   "menu": {
-    "title": "Screenshots",
+    "title": "Screenshots Generator",
     "items": [
-      "app.waterlytics.screenshots.generate"
+      "com.martindaum.screenshotsgenerator.generate"
     ]
   }
 }

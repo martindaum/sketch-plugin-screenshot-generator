@@ -1,5 +1,5 @@
 # build artifacts
-screenshots.sketchplugin
+screenshotsgenerator.sketchplugin
 
 # npm
 node_modules
